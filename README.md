@@ -1,2 +1,2 @@
 # market-dashboard
-Repo for displayin the customer data of farmers market mobile app
+Repository for displaying the customer data of farmers market mobile app
